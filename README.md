@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn] https://www.linkedin.com/in/nadirshanazarudeen-87765b146/
+- 🌐 [LinkedIn] (https://www.linkedin.com/in/nadirshanazarudeen-87765b146/)
 - 📧 naadhu713@gmail.com
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
